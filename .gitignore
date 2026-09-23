@@ -1,18 +1,18 @@
-Virtual Environment
+# Virtual Environment
 
 venv/
 .venv/
 env/
 
-Environment Variables
+# Environment Variables
 
 .env
 
-IDE
+# IDE
 
 .vscode/
 .idea/
 
-Jupyter Notebook
+# Jupyter Notebook
 
 .ipynb_checkpoints/
