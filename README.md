@@ -9,7 +9,6 @@ A simple **Library Management REST API** built using **FastAPI** and **Pydantic*
 * 🔍 Get a book by ID
 * ✏️ Update a book
 * 🗑️ Delete a book
-* 🏠 Home endpoint
 * 📑 Swagger API documentation
 
 ## 🛠️ Technologies
